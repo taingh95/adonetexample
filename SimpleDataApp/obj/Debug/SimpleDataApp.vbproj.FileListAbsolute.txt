@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Navigation.resources
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Resources.resources
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.xml
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.xml
+C:\Users\Admin\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.pdb
